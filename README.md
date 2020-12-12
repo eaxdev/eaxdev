@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you have any questions to me, you can write me in [telegram](https://t.me/romask3) 
+📫 If you have any questions to me, you can write me in [telegram](https://t.me/romask3) 
 <!--
 **eaxdev/eaxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
